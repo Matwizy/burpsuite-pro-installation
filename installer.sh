@@ -3,7 +3,7 @@
 # __author__     : @mrblackx
 # __version__    : v1
 # __description__: burpsuite pro setup
-# __support__    : https://t.me/burpchat
+# __support__    : https://t.me/burp_chat
 # 
 
 r="\e[31m"
