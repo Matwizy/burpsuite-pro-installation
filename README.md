@@ -12,7 +12,7 @@
 # General Information
   
   This is an script to automate the process of burpsuite pro installation.
-  If you want to download it, join [telegram group](https://t.me/burpchat/)
+  If you want to download it, join [telegram group](https://t.me/burp_chat/)
 
 # Installation
 
@@ -43,7 +43,7 @@ _Channels :_
          
 [Deepwaterleaks](https://t.me/deepwaterleaks2)
 
-[BurpChat & Download](https://t.me/burpchat)
+[BurpChat & Download](https://t.me/burp_chat/)
                
             
 # Social Media
