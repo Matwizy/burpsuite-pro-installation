@@ -3,6 +3,7 @@
 # Table of contents:
 * [General Information](#general-info)
 * [Installation](#installation)
+* [Download](#download)
 * [Email Config](#email-config)
 * [Disclaimer](#disclaimer)
 * [Credits](#credits)
@@ -25,7 +26,14 @@
   ```bash installer.sh```
   
 You can run aswell as sudo.
+# Download
+  
+  If you want to download the pro version, you can follow this link:
+  [DOWNLOAD](https://t.me/burp_chat/12671)
 
+  Installation Video
+  [VIDEO](https://t.me/burp_chat/12670)
+  
 # Disclaimer
 
   Use this tool for educational purposes only .:-) 🕵️‍♂️
